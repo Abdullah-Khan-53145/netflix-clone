@@ -4,13 +4,14 @@ This project is a clone of netflix with modern UI using Css and React JS. Also a
 
 <br />
 <div align="center">
-  <a href="https://github.com/Abdullah-Khan-53145
+  <a href="Abdullah-Khan-53145
 /
-linkedin-clone">
-    <img src="https://www.freepnglogos.com/uploads/netflix-logo-circle-png-5.png" alt="Logo" width="80" height="80">
+netflix-clone
+">
+    <img src="https://toppng.com/uploads/preview/netflix-logo-png-11593869496jqso5gxgsy.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Linkedin CLone</h3>
+<h3 align="center">Netflix CLone</h3>
   </div>
 
 ## Authors
