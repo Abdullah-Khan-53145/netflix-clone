@@ -11,6 +11,7 @@ linkedin-clone">
   </a>
 
 <h3 align="center">Linkedin CLone</h3>
+  </div>
 
 ## Authors
 
