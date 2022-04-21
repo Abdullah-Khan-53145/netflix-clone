@@ -16,7 +16,7 @@ linkedin-clone">
 
 - [@Abdullah Khan](https://github.com/Abdullah-Khan-53145)
 
-## Tech Stack
+
 
 ### Built With
 
