@@ -8,7 +8,7 @@ This project is a clone of netflix with modern UI using Css and React JS. Also a
 /
 netflix-clone
 ">
-    <img src="https://toppng.com/uploads/preview/netflix-logo-png-11593869496jqso5gxgsy.png" alt="Logo" width="80" height="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Netflix_icon.svg/1200px-Netflix_icon.svg.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Netflix CLone</h3>
